@@ -3,11 +3,7 @@ Teste
 Exemplo
 
 Teste de novo
-<<<<<<< HEAD
 Nova linha...
 dsds
 
 v7 - lalakslaska
-=======
-Nova linha...
->>>>>>> parent of ef8fd45... v6
